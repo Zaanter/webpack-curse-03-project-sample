@@ -1,1 +1,2 @@
-# webpack-curse-03-project-sample
+# platzi-store
+Curso de Pruebas unitarias con Jest

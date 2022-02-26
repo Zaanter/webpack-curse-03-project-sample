@@ -1,0 +1,14 @@
+#titulo{
+    text-align: center;
+}
+
+#contenedor-subtitulo{
+    display: flex;
+    justify-content: space-around;
+}
+
+#parrafo{
+    width: 50%;
+    margin-left: 25%;
+}
+
